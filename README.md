@@ -27,3 +27,16 @@ Some results cropped directly from the paper.
 
 #### Dataset:
 The newly introduced `VectorMNIST` datasets is [located here](https://ayandas.me/sketchode). Any further update on the dataset will be reflected on the same page.
+
+---
+
+```
+@inproceedings{
+    das2022sketchode,
+    title={Sketch{ODE}: Learning neural sketch representation in continuous time},
+    author={Ayan Das and Yongxin Yang and Timothy Hospedales and Tao Xiang and Yi-Zhe Song},
+    booktitle={International Conference on Learning Representations},
+    year={2022},
+    url={https://openreview.net/forum?id=c-4HSDAWua5}
+}
+```
