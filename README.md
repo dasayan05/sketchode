@@ -22,3 +22,8 @@ Some results cropped directly from the paper.
 5. Some older version of libraries are required. `torch == 1.9.0`, `pytorch-lightning == 1.4.2`, `torchdiffeq == 0.2.2`, `torchcde == 0.2.3`.
 6. Default logger is `wandb`. You need to set it up for yourself.
 7. The default HPs in the code might not match the paper's. See the paper for correct HPs.
+
+---
+
+#### Dataset:
+The newly introduced `VectorMNIST` datasets is [located here](https://ayandas.me/sketchode). Any further update on the dataset will be reflected on the same page.
